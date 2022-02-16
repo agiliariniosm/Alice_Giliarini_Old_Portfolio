@@ -6,3 +6,4 @@ My data analysis portfolio
 - Used Superset to create a dashboard with charts and tables to visualize outcomes 
 
 ## Linguistic Data Analysis of Webtoon's Summaries 
+![words_barchart](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/images/Screen%20Shot%202022-02-15%20at%205.21.06%20PM.png)
