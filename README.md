@@ -1,4 +1,4 @@
-# Alice Giliarini: Data Analysis Portfolio
+# Alice Giliarini
 Hi, welcome to my data analysis portfolio!
 
 ## Project 1: Webtoon  
