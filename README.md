@@ -14,8 +14,7 @@ For this project I:
 
 As a user, most of the comics I've found have been about entities such as vampires, fairies, and witches; so, my hypothesis was that after breaking down the summaries into a list of single words and after taking away function words, verbs, and adjectives, the remaining list would include non-human entities at the top of the list. This was not the case but some other interesting discoveries were made through out the process. 
 
-![school](images/Screen%20Shot%202022-02-16%20at%2012.42.33%20AM.png)
-
+[![school](images/Screen%20Shot%202022-02-16%20at%2012.42.33%20AM.png)](https://www.webtoons.com/en/search?keyword=school)
 To get readers to discover new comics, Webtoon advertises several comics on their homepage that change about once every week. However, if a user would like to discover a new comics on their own, they must look through long lists; these lists are sorted by either most popular, genre (each comic is given one genre), alphabet, or day of the week it's published. A user can also search up comics they know of by title or author. If a user types in "school" in the search bar, Webtoon will show a ist of comics that contain "school" in their title. However comics that are about school, can be given the tag "school," and mention "school" in their summaries, do not show up. As you can see, only 6 comics that have school "school" in their title show up while I found that "school" was mentioned in the summaries of 67 comics. A person interested in reading a comic about school misses out on 61 comics when using Webtoon's current system. As part of this project I've created a list of suggested keywords taken from summaries. If Webtoon opens up the ability to find comics by keywords found in summaries rather than only by keywords found in the comic titles, users will have an easier time finding comics of interest. 
 
 
