@@ -1,5 +1,5 @@
-# Alice_Giliarini_Portfolio
-My data analysis portfolio
+# My Data Analysis Portfolio:
+Alice Giliarini
 
 # Project 1: Webtoon  
 - Used SQL to sift through Webtoon's summaries of comics, find most used words, and pull-out keywords
