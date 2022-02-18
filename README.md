@@ -26,7 +26,7 @@ In making this list I only looked at specific nouns and considered what percent 
 
 ![fictional_entities](images/Screen%20Shot%202022-02-18%20at%202.19.06%20PM.png)
 
-![keywords_barchart](images/Screen%20Shot%202022-02-18%20at%2012.54.49%20PM.png)
+![journey_adventure_quest](images/Screen%20Shot%202022-02-18%20at%202.22.11%20PM.png)
 
 ![keywords_barchart](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
 
