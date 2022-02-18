@@ -34,6 +34,5 @@ In making this list I only looked at specific nouns and considered what percent 
 ![girl_boy_man_woman](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
 
 **Top 10 Specific Nouns**
-
 ![top10_specificnouns](images/Screen%20Shot%202022-02-18%20at%202.35.12%20PM.png)
 
