@@ -21,7 +21,7 @@ To get readers to discover new comics, Webtoon advertises several comics on thei
 
 In making this list I only looked at specific nouns and considered what percent of comics mentioned the word in their summary, whether the word provides information about the comic, and whether a user would be likely to look-up this word to find similar comics. The keywords in the suggested list appear in atleast 1.58% of comics. Words like "life" and "world" were excluded because they are too vague on their own; all comics are about a "world" and "life" so these words do not provide information on the comic. In order to decide on how likely-hood a user would look-up a keyword, a small sample of people was given a list of keywords and was asked to assign each keyword a number 1-3, 1 being "this is not a useful keyowrd", 2 being "I'm not interested in this keyword but others are likely to be interested," and 3 being "I would use this keyword to find comics of interest." All words with an average score below 1.5 were removed from the list. 
 
-#### Suggested Keywords 
+**Suggested Keywords** 
 ![keywords_barchart](images/Screen%20Shot%202022-02-17%20at%204.07.10%20PM.png)
 
 ![words_barchart](images/Screen%20Shot%202022-02-15%20at%208.10.43%20PM.png)
