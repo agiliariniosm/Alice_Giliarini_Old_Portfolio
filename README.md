@@ -24,4 +24,10 @@ In making this list I only looked at specific nouns and considered what percent 
 **Suggested Keywords** 
 ![keywords_barchart](images/Screen%20Shot%202022-02-17%20at%204.07.10%20PM.png)
 
+![keywords_barchart](images/Screen%20Shot%202022-02-18%20at%202.01.02%20PM.png)
+
+![keywords_barchart](images/Screen%20Shot%202022-02-18%20at%2012.54.49%20PM.png)
+
+![keywords_barchart](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
+
 ![words_barchart](images/Screen%20Shot%202022-02-15%20at%208.10.43%20PM.png)
