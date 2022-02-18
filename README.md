@@ -20,6 +20,6 @@ To get readers to discover new comics, Webtoon advertises several comics on thei
 
 In making this list I only looked at specific nouns and I considered how many comics mentioned the word in their summary, whether the word provides information about the comic, and whether a user would be likely to look-up this word to find similar comics. 
 
-![keywords_barchart](images/Screen%20Shot%202022-02-17%20at%203.36.37%20PM.png)
+![keywords_barchart](images/Screen%20Shot%202022-02-17%20at%204.07.10%20PM.png)
 
 ![words_barchart](images/Screen%20Shot%202022-02-15%20at%208.10.43%20PM.png)
