@@ -30,9 +30,15 @@ In making this list I only looked at specific nouns and considered what percent 
 **Journey, Adventure, Quest**
 ![journey_adventure_quest](images/Screen%20Shot%202022-02-18%20at%202.22.11%20PM.png)
 
+A preference for "journey" was found over it's two synonyms "adventure" and "quest"
+
 **Girl, Boy, Man, Woman**
 ![girl_boy_man_woman](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
 
+"Girl" and "Boy," referring to children, were both used more frequently than the words "man" and "woman," referring to adults. While "girl" was used more frequently than "boy," "man" was used more frequently than "woman." 
+
 **Top 10 Specific Nouns**
 ![top10_specificnouns](images/Screen%20Shot%202022-02-18%20at%202.35.12%20PM.png)
+
+This is a list of the most frequently occuring specific nouns among comics. 
 
