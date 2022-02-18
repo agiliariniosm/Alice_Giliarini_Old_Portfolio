@@ -28,6 +28,6 @@ In making this list I only looked at specific nouns and considered what percent 
 
 ![journey_adventure_quest](images/Screen%20Shot%202022-02-18%20at%202.22.11%20PM.png)
 
-![keywords_barchart](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
+![girl_boy_man_woman](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
 
-![words_barchart](images/Screen%20Shot%202022-02-15%20at%208.10.43%20PM.png)
+
