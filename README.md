@@ -1,6 +1,5 @@
 # Alice Giliarini
 Hi, welcome to my data analysis portfolio!
-It is a work in progress.
 
 ## Project 1: Webtoon  
 
