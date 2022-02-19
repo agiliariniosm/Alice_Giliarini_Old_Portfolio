@@ -7,11 +7,10 @@ It is a work in progress.
 
 Webtoon is a company that produces comics which are available for the public to read both online and via a phone app. Each comic has information attached to it such as a single genre tag, a summary, average rating out of 10, total likes across episodes, and the amount of subscribed readers. Such data was collected in the dataset used in this project, taken from [Kaggle](https://www.kaggle.com/swarnimrai/webtoon-comics-dataset). The dataset looks at 569 "Original" Webtoon comics, or comics that are sponsored by Webtoon, and does not include comics available in Webtoon's "Canvas" section where anyone can post.
 
-For this project I:
-- Used SQL to sift through Webtoon's summaries of comics, find most used words, and pull-out keywords
-- Used Superset to create a dashboard with charts and tables to visualize outcomes 
-
 ### Linguistic Data Analysis of Webtoon's Summaries 
+
+- Used SQL to sift through Webtoon's summaries of comics, find most used words, and pull-out keywords
+- Used Superset to create a dashboard with charts and tables to visualize outcomes
 
 As a user, most of the comics I've found have been about entities such as vampires, fairies, and witches; so, my hypothesis was that after breaking down the summaries into a list of single words and after taking away function words, verbs, and adjectives, the remaining list would include non-human entities at the top of the list. This was not the case but some other interesting discoveries were made through out the process. 
 
