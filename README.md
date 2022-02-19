@@ -61,7 +61,7 @@ This barchart shows how frequently the names of some common fictional humanoid e
 **Journey, Adventure, Quest**
 ![journey_adventure_quest](images/Screen%20Shot%202022-02-18%20at%202.22.11%20PM.png)
 
-A preference for "journey" was found over it's two synonyms "adventure" and "quest"
+A preference for "journey" was found over its two synonyms "adventure" and "quest"
 
 **Girl, Boy, Man, Woman**
 ![girl_boy_man_woman](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
