@@ -43,5 +43,5 @@ A preference for "journey" was found over it's two synonyms "adventure" and "que
 **Top 10 Specific Nouns**
 ![top10_specificnouns](images/Screen%20Shot%202022-02-18%20at%202.35.12%20PM.png)
 
-This is a list of the most frequently occuring specific nouns among comics. 
+This is a list of the most frequently occuring specific nouns in comic summaries.
 
