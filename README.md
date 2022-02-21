@@ -21,7 +21,7 @@ As a user, most of the comics I've found have been about entities such as vampir
 
 Specific nouns are all nouns that contain semantical meaning and provide a reader with information. While specific nouns do not include non-specific nouns such as "everything" or "everyone," they do include words such as "hats" or "humans". 
 
-This is the process I went throught to get the resuls shown in the bar chart:
+This is the process I went throught to get the results shown in the bar chart:
 1. Split summaries into single words and removed punctuation marks as well as capitalization.
 2. Removed function words, adjectives, and verbs. Function words are "grammar words" or words that do not add meaning to a text; they only play a grammatical role. For example, articles such as "the" and "a", conjunctions such as "and", and pronouns such as "she", "he", "it," or "they" are all function words.
 3. Replaced plural forms of words with singular forms of words in cases where both forms have the same meaning.
