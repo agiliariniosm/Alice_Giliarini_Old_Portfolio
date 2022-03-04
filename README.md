@@ -68,5 +68,6 @@ A preference for "journey" was found over its two synonyms "adventure" and "ques
 
 "Girl" and "Boy," referring to children, were both used more frequently than the words "man" and "woman," referring to adults. While "girl" was used more frequently than "boy," "man" was used more frequently than "woman." 
 
-####The Code
+#### The Code
+
 [Here you can find some of the code I wrote for this project](https://github.com/agiliariniosm/MyCode)
