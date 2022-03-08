@@ -89,6 +89,7 @@ For this project we were provided with three sets of data from a hypothetical co
   
 We were also given the following background information regarding the company:
 > "Sprocket Central Pty Ltd is a long-standing KPMG client whom specializes in high-quality bikes and accessible cycling accessories to riders.” They have “given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organization."
+
 > "Using the existing 3 datasets (Customer demographic, customer address and transactions) (…), please recommend which of these 1000 new customers should be targeted to drive the most value for the organization."
 
 The project was broken down into three tasks:
