@@ -80,7 +80,7 @@ A preference for "journey" was found over its two synonyms "adventure" and "ques
 - Used Excel to create pivot tables and charts 
 - Used Tableau to create a dashboard
 
-![KPMG](images/Screen%20Shot%202022-03-07%20at%2011.36.50%20PM.png)
+[![KPMG](images/Screen%20Shot%202022-03-07%20at%2011.36.50%20PM.png)](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
 
 For this project we were provided with three sets of data from a hypothetical company, Sprocket Central Pty Ltd:
   -Transaction history
@@ -94,7 +94,7 @@ We were also given the following background information regarding the company:
 
 The project was broken down into three tasks:
 1. Assess, clean, and mitigate the data. 
-2. Explore the data and create a power point presentation with your insights. 
-3. Create a dashboard to present to the client. 
+2. Explore the data and create a power point [presentation](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf) with your insights. 
+3. Create a [dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1) to present to the client. 
 
 
