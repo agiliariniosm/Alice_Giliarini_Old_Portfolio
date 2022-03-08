@@ -97,4 +97,18 @@ The project was broken down into three tasks:
 2. Explore the data and create a power point [presentation](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf) with your insights. 
 3. Create a [dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1) to present to the client. 
 
+#### Data Assessment 
+![data_assessment](images/Screen%20Shot%202022-03-08%20at%2012.44.25%20AM.png)
 
+#### Data Exploration
+[![customertype](images/Screen%20Shot%202022-03-08%20at%2012.47.05%20AM.png)](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
+
+I found the top customers to be:
+- 40-49 years old
+- Mass customers
+- Female
+- From New South Wales
+- From the "manufacturing" job industry
+
+#### Dashboard
+[![dashboard](images/Screen%20Shot%202022-03-08%20at%2012.59.55%20AM.png)](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
