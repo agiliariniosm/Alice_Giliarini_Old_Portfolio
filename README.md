@@ -71,3 +71,29 @@ A preference for "journey" was found over its two synonyms "adventure" and "ques
 #### The Code
 
 [Here you can find some of the code I wrote for this project](https://github.com/agiliariniosm/MyCode)
+
+
+## Project 2: KPMG Virtual Experience Program
+
+-Used Excel to clean, mitigate, and prepare data for analysis
+-Used Excel for feature engineering 
+-Used Excel to create pivot tables and charts 
+-Used Tableau to create a dashboard
+
+![KPMG](images/Screen%20Shot%202022-03-07%20at%2011.36.50%20PM.png)
+
+For this project we were provided with three sets of data from a hypothetical company, Sprocket Central Pty Ltd:
+  -Transaction history
+  -Customer demographics
+  -Customer address
+  
+We were also given the following background information regarding the company:
+> "Sprocket Central Pty Ltd is a long-standing KPMG client whom specializes in high-quality bikes and accessible cycling accessories to riders.” They have “given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organization."
+> "“Using the existing 3 datasets (Customer demographic, customer address and transactions) (…), please recommend which of these 1000 new customers should be targeted to drive the most value for the organization.”
+
+The project was broken down into three tasks:
+1. Assess, clean, and mitigate the data. 
+2. Explore the data and create a power point presentation with your insights. 
+3. Create a dashboard to present to the client. 
+
+
