@@ -75,10 +75,10 @@ A preference for "journey" was found over its two synonyms "adventure" and "ques
 
 ## Project 2: KPMG Virtual Experience Program
 
--Used Excel to clean, mitigate, and prepare data for analysis
--Used Excel for feature engineering 
--Used Excel to create pivot tables and charts 
--Used Tableau to create a dashboard
+- Used Excel to clean, mitigate, and prepare data for analysis
+- Used Excel for feature engineering 
+- Used Excel to create pivot tables and charts 
+- Used Tableau to create a dashboard
 
 ![KPMG](images/Screen%20Shot%202022-03-07%20at%2011.36.50%20PM.png)
 
