@@ -1,4 +1,3 @@
-[Row Health](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/2de533fc4ab59c0b7b705dde4e6ded4f247ba006/Row%20Health%20Project)
 # Alice Giliarini
 Hi, welcome to my data analysis portfolio!
 
